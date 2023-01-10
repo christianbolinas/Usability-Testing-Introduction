@@ -15,7 +15,7 @@ This template also allows the user to mix and match div. blocks should students 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. Download and/or open a text editor like [brackets.io](https://brackets.io), [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org). 
+4. Download and/or open a text editor like [Visual Studio Code](https://code.visualstudio.com/download). 
 
 5. Use the text editor to open the style.css and index.html documents from your project folder.  
 
@@ -34,7 +34,34 @@ This template also allows the user to mix and match div. blocks should students 
 Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
 
 
+Watch our [instructional video](https://youtu.be/cJiYas7B9Us)
 
+
+## Text Editor Optimization
+
+Setting up Visual Studio Code for Windows and CodePad for Chromebooks (Our recommended code editors)
+
+### Visual Studio Code (Mac)
+
+1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
+1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
+1. In the search bar type "**Live Preview**."
+1. In the right-had corner, select the "**show preview**" button to see a.
+1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
+
+### Visual Studio Code (Windows)
+
+1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
+1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
+1. In the search bar type "**Live Preview**."
+1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
+1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
+
+### Code Pad (Chromebook)
+
+1. Download "**[Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)**" from Chrome Web Store.
+1. From the dropdown menu, select **Editor>IDE Preferences**
+1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
 
 
 
