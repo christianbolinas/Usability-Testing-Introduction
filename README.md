@@ -34,7 +34,7 @@ This template also allows the user to mix and match div. blocks should students 
 Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
 
 
-Watch our [instructional video](https://youtu.be/FupjIP-iNGk?si=mutsmX4f4IJmk0iv)
+Watch our [instructional video](https://youtu.be/FupjIP-iNGk?si=mutsmX4f4IJmk0iv) (Note that this video uses a different template. Please use this template.)
 
 
 ## Text Editor Optimization
